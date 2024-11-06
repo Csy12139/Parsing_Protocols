@@ -16,6 +16,8 @@
 Parsing_Protocols/
 │
 ├── CMakeLists.txt
+├── README.md
+├── .gitignore
 ├── client/
 │   ├── client.cpp
 │   └── client.h
